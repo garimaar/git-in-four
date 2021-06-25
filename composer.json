@@ -1,0 +1,18 @@
+{
+    "name": "firstcopm/first",
+    "description": "this is first package",
+    "autoload": {
+        "psr-4": {
+            "Firstcopm\\First\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "garima",
+            "email": "garimaarora121999@gmail.com"
+        }
+    ],
+    "require": {
+        "doctrine/collections": "^1.4"
+    }
+}
